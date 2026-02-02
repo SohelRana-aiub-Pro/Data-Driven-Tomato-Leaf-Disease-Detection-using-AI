@@ -1,4 +1,4 @@
-Data-Driven-Tomato-Leaf-Disease-Detection-using-AI, Question about the schene
+Data-Driven-Tomato-Leaf-Disease-Detection-using-AI
 ----------------------------------------------------
 
 
@@ -15,9 +15,6 @@ Coding Tasks & Project outcomes; Research & Development based Project work.
 
 Related Dataset Resources for this task;
 https://data.mendeley.com/datasets/ngdgg79rzb/1
-
-
-
 https://www.kaggle.com/datasets/cookiefinder/tomato-disease-multiple-sources
 
 
